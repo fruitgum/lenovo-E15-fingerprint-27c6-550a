@@ -29,10 +29,10 @@ Tested on *__Ubuntu 23.04 lunar__* with fingerprint device *__27c6:550a__ - Shen
 
    Second mirror:
    > https://github.com/fruitgum/lenovo-E15-fingerprint-27c6-550a/releases/tag/latest
-5. Unpack it and install
+4. Unpack it and install
    ```
    sudo dpkg -i libfprint-2-tod-goodix_amd64.deb
    ```
-6. Now fingerprint login is available
+5. Now fingerprint login is available
    
    You can enroll your fingerprint either with fprintd-enroll or via Settings>User
