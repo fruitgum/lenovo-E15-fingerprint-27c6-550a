@@ -25,10 +25,13 @@ Checked on 27c6:550a - Shenzhen Goodix Technology Co.,Ltd. FingerPrint
    
    Mirror:
    > https://mega.nz/file/wysAlaza#X1MukixHyDNk326-0S5GX0c-j5DmyduVbSG-UmLrdHo
-4. Unpack it and install
+
+   Second mirror:
+   > https://github.com/fruitgum/lenovo-E15-fingerprint-27c6-550a/releases/tag/latest
+5. Unpack it and install
    ```
    sudo dpkg -i libfprint-2-tod-goodix_amd64.deb
    ```
-5. Now fingerprint login is available
+6. Now fingerprint login is available
    
    You can enroll your fingerprint either with fprintd-enroll or via Settings>User
