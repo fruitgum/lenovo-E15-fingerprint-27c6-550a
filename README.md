@@ -1,4 +1,9 @@
+Also on gist
+> https://gist.github.com/fruitgum/d562f4c6b699728c82e8a6ad1d68a50d
+
 # lenovo-E15-fingerprint
+
+
 Manual how to activate fingerprint on Lenovo E15 Gen 4
 
 Tested on *__Ubuntu 23.04 lunar__* with fingerprint device *__27c6:550a__ - Shenzhen Goodix Technology Co.,Ltd. FingerPrint*
