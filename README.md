@@ -1,6 +1,6 @@
 # lenovo-E15-fingerprint
 Manual how to activate fingerprint on Lenovo E15 Gen 4
-Checked on 27c6:550a - Shenzhen Goodix Technology Co.,Ltd. FingerPrint
+Tesded on *__Ubuntu 23.04 lunar__* with fingerprint device *__27c6:550a__ - Shenzhen Goodix Technology Co.,Ltd. FingerPrint*
 
 
 # Step-by-step
