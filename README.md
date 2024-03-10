@@ -6,7 +6,7 @@ Checked on 27c6:550a - Shenzhen Goodix Technology Co.,Ltd. FingerPrint
 # Step-by-step
 1. Find your device ID with lsusb:
    ```
-   user@lenovo:~$: lsusb
+   user@lenovo:~$ lsusb
    Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
    Bus 003 Device 003: ID 0bda:4853 Realtek Semiconductor Corp. Bluetooth Radio
    Bus 003 Device 002: ID 27c6:550a Shenzhen Goodix Technology Co.,Ltd. FingerPrint --- This's our reader
